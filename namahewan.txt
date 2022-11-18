@@ -3,3 +3,8 @@ HEWAN DARAT
 - Kambing
 - Ayam
 - Ular
+
+Hewan Laut
+- Ikan
+- Udang
+- Kepiting
