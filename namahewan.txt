@@ -2,9 +2,12 @@ HEWAN DARAT
 - Kucing
 - Kambing
 - Ayam
-- Ular
 
 Hewan Laut
 - Ikan
 - Udang
 - Kepiting
+
+Hewan Udara
+- Kupu-kupu
+- Lebah
