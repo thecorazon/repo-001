@@ -1,0 +1,5 @@
+HEWAN DARAT
+- Kucing
+- Kambing
+- Ayam
+- Ular
