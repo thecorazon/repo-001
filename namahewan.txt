@@ -2,6 +2,8 @@ HEWAN DARAT
 - Kucing
 - Kambing
 - Ayam
+- Kalajengking
+- Kancil
 
 Hewan Laut
 - Ikan
