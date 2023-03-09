@@ -2,8 +2,8 @@ HEWAN DARAT
 - Kucing
 - Kambing
 - Ayam
-- Kalajengking
-- Kancil
+- Gajah
+- Kuda
 
 Hewan Laut
 - Ikan
@@ -13,3 +13,8 @@ Hewan Laut
 Hewan Udara
 - Kupu-kupu
 - Lebah
+
+Hewan Darat & Laut (Amfibi)
+- Buaya
+- Penyu
+- Kepiting
